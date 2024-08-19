@@ -48,8 +48,8 @@ For a more in-depth explanation of the solutions, you can find video explanation
 
 You can find me on:
 
-* **YouTube 📺**: [Your YouTube Channel Link](www.youtube.com/@StartCoadingWithMe)
-* **LinkedIn 📊**: [Your LinkedIn Profile Link](www.linkedin.com/in/gaurav07c)
+* **YouTube 📺**: [START CODING WITH ME](www.youtube.com/@StartCoadingWithMe)
+* **LinkedIn 📊**: [LinkedIn ](www.linkedin.com/in/gaurav07c)
 
 **Contributing 🤝**
 --------------
