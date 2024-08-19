@@ -47,10 +47,8 @@ For a more in-depth explanation of the solutions, you can find video explanation
 -------------
 
 You can find me on:
-
-* **YouTube 📺**: [Your YouTube Channel Link](www.youtube.com/@StartCoadingWithMe)
-* **LinkedIn 📊**: [Your LinkedIn Profile Link](www.linkedin.com/in/gaurav07c)
-
+* **YouTube**: [My YouTube Channel](https://www.youtube.com/@StartCoadingWithMe)
+* **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/gaurav07c)
 **Contributing 🤝**
 --------------
 
