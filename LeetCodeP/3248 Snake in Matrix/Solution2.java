@@ -25,10 +25,10 @@ class Solution {
         return matrix[position[0]][position[1]];
     }
 
-    //  this test we add for testing  
+    //  this test we add for testing
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        Solution1 solution = new Solution1();
 
         // Example 1
         int n = 2;
